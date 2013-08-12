@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="UEditor,Editor,javascript 编辑器,html 编辑器,百度编辑器,百度 Editor, 在线编辑器">
+    <meta name="description" content="UEditor是百度的一个javascript编辑器的开源项目，能带给您良好的富文本使用体验">
+    <title>UEditor - 示例</title>
+    <link rel="stylesheet" href="UEditor%20-%20%E7%A4%BA%E4%BE%8B_files/public.css" type="text/css">
+    <link rel="stylesheet" href="UEditor%20-%20%E7%A4%BA%E4%BE%8B_files/onlinedemo.css" type="text/css">
+
+    <script type="text/javascript" charset="utf-8">
+    window.UEDITOR_HOME_URL = "__PUBLIC__/Ueditor/"; 
+    </script>
+    <load href="__PUBLIC__/Ueditor/ueditor.config.js" />
+    <load href="__PUBLIC__/Ueditor/ueditor.all.min.js" />   
+    </head>
+    <textarea name="后台取值的key" id="myEditor">这里写你的初始化内容</textarea>
+    <script type="text/javascript">
+    var editor = new UE.ui.Editor();
+    editor.render("myEditor");
+    //1.2.4以后可以使用一下代码实例化编辑器
+    //UE.getEditor('myEditor')
+</script> 
+    </html>

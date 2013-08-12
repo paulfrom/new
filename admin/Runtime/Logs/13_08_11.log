@@ -1,0 +1,1620 @@
+[ 2013-08-11T14:30:16+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008892s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\new\web\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\new\web\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000617s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000454s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002581s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000792s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2013-08-11T18:31:00+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003632s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002225s ]
+INFO: [ view_filter ] --START--
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\new\web\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant APP_TMPL_PATH - assumed 'APP_TMPL_PATH' E:\new\web\ThinkPHP\Lib\Behavior\ContentReplaceBehavior.class.php 第 47 行.
+INFO: ContentReplace Behavior ::run [ RunTime:0.000790s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000651s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000864s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003163s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001089s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2013-08-11T18:33:39+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001081s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.056941s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057223s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001648s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002829s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001908s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010437s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002924s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003335s ]
+
+[ 2013-08-11T18:34:15+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009951s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000504s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000352s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002347s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001444s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001576s ]
+
+[ 2013-08-11T18:35:45+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011039s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011475s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001929s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002349s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000507s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005937s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000837s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000958s ]
+
+[ 2013-08-11T18:35:46+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014086s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014252s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000530s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000539s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000355s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002393s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000729s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2013-08-11T18:35:58+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010673s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000520s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000505s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000354s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002314s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000715s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000828s ]
+
+[ 2013-08-11T18:35:59+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010922s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011080s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000638s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000364s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002489s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000716s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2013-08-11T18:36:33+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009041s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000554s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000534s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000366s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002433s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000717s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2013-08-11T18:38:04+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010290s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000622s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000642s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000450s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002819s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000935s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001060s ]
+
+[ 2013-08-11T18:38:32+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009624s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000549s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000603s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000399s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000800s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002736s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000753s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2013-08-11T18:39:36+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010859s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000569s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000603s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002783s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000751s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000881s ]
+
+[ 2013-08-11T18:40:05+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011781s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000721s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000721s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000915s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003307s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000889s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001021s ]
+
+[ 2013-08-11T18:41:02+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002213s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011363s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000887s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001681s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001232s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005969s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001032s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001217s ]
+
+[ 2013-08-11T18:43:07+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001115s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013838s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000675s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000700s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000469s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003154s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001238s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001413s ]
+
+[ 2013-08-11T18:45:12+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017450s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000958s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001030s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000712s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004775s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001495s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001657s ]
+
+[ 2013-08-11T18:45:13+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001321s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012262s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000762s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000704s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003555s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000876s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2013-08-11T18:45:21+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013703s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000625s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000664s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000512s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000884s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003138s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000797s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2013-08-11T18:46:37+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001345s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010121s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000566s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000595s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000906s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001431s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001669s ]
+
+[ 2013-08-11T18:49:31+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000665s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000689s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003168s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000822s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2013-08-11T18:50:14+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012026s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000727s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000855s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003494s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000883s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2013-08-11T18:53:14+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014581s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000715s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000700s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000470s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003276s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000900s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2013-08-11T18:53:21+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014883s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000713s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000857s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000644s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002139s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005051s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001475s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001740s ]
+
+[ 2013-08-11T18:53:43+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001308s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011947s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012115s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001064s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001677s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000911s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005874s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001168s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001335s ]
+
+[ 2013-08-11T18:54:11+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000856s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010600s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000581s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000611s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000402s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000909s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002942s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000758s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2013-08-11T18:55:25+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013445s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000676s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000694s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000487s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000968s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003218s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001395s ]
+
+[ 2013-08-11T18:57:55+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001254s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 39 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012399s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000659s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000687s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003108s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000804s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2013-08-11T18:58:15+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 39 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011316s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000626s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000657s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000526s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003123s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000855s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2013-08-11T19:07:10+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 39 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000835s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000743s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000479s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003429s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000853s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2013-08-11T19:07:34+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 39 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012805s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012965s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000676s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000710s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000505s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003150s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000812s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2013-08-11T19:11:25+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001662s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011106s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000704s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000694s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000493s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003177s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000835s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2013-08-11T19:12:14+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014398s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000880s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000830s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000537s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003945s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000910s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2013-08-11T19:12:51+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000920s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011440s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001173s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000775s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000512s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000952s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003955s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000899s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001072s ]
+
+[ 2013-08-11T19:13:46+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020984s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000755s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000834s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004429s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001703s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002131s ]
+
+[ 2013-08-11T19:14:35+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011046s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000642s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000685s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000394s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003040s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001734s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2013-08-11T19:19:10+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017754s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001281s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001706s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000897s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001045s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000930s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001063s ]
+
+[ 2013-08-11T19:19:39+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013817s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000738s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000630s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000407s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003065s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001310s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001574s ]
+
+[ 2013-08-11T19:20:25+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011763s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000694s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000712s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000503s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003713s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002600s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002748s ]
+
+[ 2013-08-11T19:20:27+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 25 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010286s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010495s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001011s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000995s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000600s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004596s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000755s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2013-08-11T19:20:43+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 39 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010554s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000577s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000603s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000383s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002871s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001256s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001532s ]
+
+[ 2013-08-11T19:24:11+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009878s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000651s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000701s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000870s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2013-08-11T19:24:22+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011310s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000714s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000700s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000605s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000898s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003355s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000879s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2013-08-11T19:25:25+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012257s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000639s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000627s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000390s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003859s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001291s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2013-08-11T19:27:56+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011586s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000929s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000876s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000524s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003732s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000855s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2013-08-11T19:34:37+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011192s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001051s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000785s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000963s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003794s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000941s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2013-08-11T19:34:43+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011525s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000919s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000920s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003820s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000847s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2013-08-11T19:35:39+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002084s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012264s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000751s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000789s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003362s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001219s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001364s ]
+
+[ 2013-08-11T19:35:45+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001335s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009935s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000611s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000820s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001459s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005002s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000859s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000991s ]
+
+[ 2013-08-11T19:39:27+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001110s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009492s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000649s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000730s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000916s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003209s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002023s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002427s ]
+
+[ 2013-08-11T19:46:53+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012998s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013251s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000673s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000698s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000833s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003622s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001192s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001400s ]
+
+[ 2013-08-11T19:46:54+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012670s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000555s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000600s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002827s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000755s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000887s ]
+
+[ 2013-08-11T19:47:28+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001542s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011664s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000648s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000700s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000510s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003140s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000797s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000938s ]
+
+[ 2013-08-11T19:51:45+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012382s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000661s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001406s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001132s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005469s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000826s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2013-08-11T19:52:18+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017499s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000643s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000764s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000589s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000863s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003330s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001034s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2013-08-11T19:52:42+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 27 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010926s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000588s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000594s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000503s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003366s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000752s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2013-08-11T19:54:53+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 38 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012596s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000670s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000684s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003099s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000955s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2013-08-11T19:55:36+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001274s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 40 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010750s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000661s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000757s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003330s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000815s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2013-08-11T19:57:04+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001122s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011179s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000719s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000705s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000551s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003960s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000948s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001076s ]
+
+[ 2013-08-11T19:58:26+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002261s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010717s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000780s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001173s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000564s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000868s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003875s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000789s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000915s ]
+
+[ 2013-08-11T19:59:03+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013131s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013303s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000723s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000699s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000470s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003224s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000821s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2013-08-11T19:59:48+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010467s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000640s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000638s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003041s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000790s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000943s ]
+
+[ 2013-08-11T20:01:20+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002125s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012199s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000713s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000745s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000896s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003259s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000817s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2013-08-11T20:05:04+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011342s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000664s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000710s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000895s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003173s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000921s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2013-08-11T20:05:12+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000968s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 41 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012977s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000656s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000687s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003118s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000825s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000954s ]
+
+[ 2013-08-11T20:06:17+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 42 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015097s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015287s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000597s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000630s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000409s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000828s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000825s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2013-08-11T20:06:57+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 42 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010541s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000564s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000601s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000431s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000821s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002811s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000967s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2013-08-11T20:11:19+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002033s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 40 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011813s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000687s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000750s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000503s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003461s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000993s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001133s ]
+
+[ 2013-08-11T20:11:44+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 40 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012327s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000658s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000680s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003115s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000897s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2013-08-11T20:12:02+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002731s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 40 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013285s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000605s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000702s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000540s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003541s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001053s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001252s ]
+
+[ 2013-08-11T20:13:11+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001011s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018177s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000690s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000674s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003138s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000812s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000953s ]
+
+[ 2013-08-11T20:14:55+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 36 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012303s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000949s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000977s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001509s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005076s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000922s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2013-08-11T20:16:14+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010889s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000606s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001572s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001159s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000911s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004916s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000771s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2013-08-11T20:17:11+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001369s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014124s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014329s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000690s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000731s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000882s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003200s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000870s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2013-08-11T20:18:02+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013506s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000625s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000627s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000407s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002859s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000718s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2013-08-11T20:18:08+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012289s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000853s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000809s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000992s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003762s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002124s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002386s ]
+
+[ 2013-08-11T20:18:15+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001615s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 37 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011582s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000654s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000788s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000669s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005535s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000901s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001070s ]
+
+[ 2013-08-11T20:19:09+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009823s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000603s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000639s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000424s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003056s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001400s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2013-08-11T20:19:41+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010515s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000964s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001221s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000948s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005338s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001448s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2013-08-11T20:26:09+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003567s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 45 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011544s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001339s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001018s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000653s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000962s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004500s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000847s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2013-08-11T20:26:19+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 45 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010256s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000591s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000600s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002768s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000767s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000891s ]
+
+[ 2013-08-11T20:28:40+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010914s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011076s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000703s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000726s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000714s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003502s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000820s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2013-08-11T20:28:51+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001154s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011174s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011378s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001198s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004576s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000842s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000973s ]
+
+[ 2013-08-11T20:29:02+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 48 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010426s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000591s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000670s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000439s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002964s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000716s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2013-08-11T20:29:29+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001678s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012502s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012844s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000710s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000693s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000406s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003152s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000840s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2013-08-11T20:29:31+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011701s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000796s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000634s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000391s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003099s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000751s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2013-08-11T21:06:36+08:00 ] 127.0.0.1 /new/web/admin.php/index/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001140s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001306s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+ERR: 无法加载模块:index
+
+[ 2013-08-11T21:06:43+08:00 ] 127.0.0.1 /new/web/admin.php/index.php/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001368s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001560s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+NOTIC: [8] Undefined variable: group E:\new\web\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-11T21:06:48+08:00 ] 127.0.0.1 /new/web/admin.php/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001973s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+NOTIC: [8] Undefined variable: group E:\new\web\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-11T21:06:53+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with Action::show($content, $charset = '', $contentType = '', $prefix = '') E:\new\web\admin\Lib\Action\IndexAction.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012739s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000684s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000733s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003113s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000897s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001072s ]
+
+[ 2013-08-11T21:06:58+08:00 ] 127.0.0.1 /new/web/admin.php/show
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001190s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001184s ]
+ERR: 无法加载模块:show
+
+[ 2013-08-11T21:07:09+08:00 ] 127.0.0.1 /new/web/admin.php/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001512s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001676s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002032s ]
+NOTIC: [8] Undefined variable: group E:\new\web\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
+[ 2013-08-11T21:07:43+08:00 ] 127.0.0.1 /new/web/admin.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+NOTIC: [2048] Declaration of IndexAction::show() should be compatible with Action::show($content, $charset = '', $contentType = '', $prefix = '') E:\new\web\admin\Lib\Action\IndexAction.class.php 第 10 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined variable: vo E:\new\web\admin\Runtime\Cache\5f998070913269adca8ffb9b48fd1aba.php 第 44 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012697s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000649s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000605s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000447s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002791s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001181s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001376s ]
+
+[ 2013-08-11T21:08:01+08:00 ] 127.0.0.1 /new/web/admin.php/index.php
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000937s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+NOTIC: [8] Undefined variable: group E:\new\web\ThinkPHP\Lib\Core\App.class.php 第 95 行.
+ERR: 无法加载模块:index.php
+
