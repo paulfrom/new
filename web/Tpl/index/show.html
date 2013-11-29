@@ -1,0 +1,45 @@
+<include file="public:header"/>
+<div id="mainmain"> 
+	<div id="main_con" class="web_bg">
+    
+    <div id="left">
+		
+<script type="text/javascript" language="javascript">
+function ContentSize(size)
+{
+	var obj=document.getElementById("artview_content");
+	obj.style.fontSize=size+"px";
+}
+
+
+</script>
+
+<div class="artview" >
+	
+	<!-- 编辑时动态触发 【start】-->
+	<div class="mod_toolbar" id="tb_mb_article1" style="display: none; height: 28px; position: absolute; right: 2px; background: none repeat scroll 0% 0% rgb(247, 182, 75); width: 70px;">
+		<a onclick="popup_window('admin/index.php?_m=mod_article&_a=admin_edit&article_id=116','Article&nbsp;&nbsp;内容编辑');return false;" title="内容编辑" href="#"><img border="0" alt="内容编辑" src="images/edit_content.gif">&nbsp;内容编辑</a>
+	</div>
+	<!-- 编辑时动态触发 【end】-->
+	<volist name="vo" id="volist" offset="1" length="1">
+	<div class="artview_title">{$vo.title}</div>
+	<div class="artview_info">来源: {$vo.author}&nbsp;&nbsp;&nbsp;发布时间: {$vo.pubtime}&nbsp;&nbsp;&nbsp;165 次浏览&nbsp;&nbsp;&nbsp;大小:&nbsp;&nbsp;<a href="javascript:ContentSize(16)">16px</a>&nbsp;&nbsp;<a href="javascript:ContentSize(14)">14px</a>&nbsp;&nbsp;<a href="javascript:ContentSize(12)">12px</a></div>
+	<div class="artview_intr">xx</div>
+	<div id="artview_content">{$vo.content}</div>
+	</volist>
+	<div class="blankbar1"></div>
+</div>		</div>
+		
+		 <include file="public:right"/> 
+        
+        
+        <div class="blankbar"></div>
+ 
+	</div>
+  </div>
+  
+  
+  </div>
+  </div>
+  </div>
+<include file="public:footer"/>

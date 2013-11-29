@@ -1,0 +1,686 @@
+[ 2013-09-08T22:30:25+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010650s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000466s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 60 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378650625,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000403s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:31:02+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016342s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000793s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 60 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378650662,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000600s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:31:31+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010499s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admina' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000440s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010999s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000844s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001190s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000792s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000872s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003881s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001041s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001101s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:39:32+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.021417s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000624s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651172,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000403s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:39:43+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009489s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000447s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651183,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000306s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:42:36+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001124s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017302s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000872s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651356,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000525s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:43:16+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017905s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000459s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651396,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000310s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:43:21+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009984s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000482s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651401,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000370s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:46:45+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000981s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T22:47:20+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.019669s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000747s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651640,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000866s ]
+
+[ 2013-09-08T22:48:33+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017394s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.001693s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651713,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000558s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011816s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000781s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001104s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000851s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003895s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001204s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001271s ]
+
+[ 2013-09-08T22:48:39+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001803s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017229s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000643s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651719,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000457s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011243s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000831s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000783s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000892s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003830s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001069s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001129s ]
+
+[ 2013-09-08T22:50:01+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016503s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000768s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651801,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000568s ]
+
+[ 2013-09-08T22:51:06+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017246s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000709s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378651865,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000495s ]
+
+[ 2013-09-08T22:51:32+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+
+[ 2013-09-08T22:51:50+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+
+[ 2013-09-08T22:51:54+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+
+[ 2013-09-08T22:52:26+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001088s ]
+ERR: 模板不存在[admin/Tpl/Public/checklogin.html]
+
+[ 2013-09-08T22:53:45+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001075s ]
+
+[ 2013-09-08T22:55:08+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+
+[ 2013-09-08T22:55:47+08:00 ] 127.0.0.1 /web/admin.php/Public/check
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+
+[ 2013-09-08T22:57:11+08:00 ] 127.0.0.1 /web/admin.php/Public/checklogin
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+
+[ 2013-09-08T22:57:51+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001251s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017982s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001147s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000989s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000873s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004248s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001262s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2013-09-08T22:57:53+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012559s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001266s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001070s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000878s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004437s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001222s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2013-09-08T23:01:24+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013610s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001218s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000996s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000875s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004285s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001223s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001282s ]
+
+[ 2013-09-08T23:02:40+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013916s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000841s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000797s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000766s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003468s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001078s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2013-09-08T23:02:42+08:00 ] 127.0.0.1 /web/admin.php/Public/check
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+
+[ 2013-09-08T23:02:59+08:00 ] 127.0.0.1 /web/admin.php/Public/check
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2013-09-08T23:04:12+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013525s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013615s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000869s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000825s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003434s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001282s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001353s ]
+
+[ 2013-09-08T23:06:54+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016994s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017115s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001689s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000913s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000713s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000904s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004403s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001109s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001170s ]
+
+[ 2013-09-08T23:08:16+08:00 ] 127.0.0.1 /web/admin.php/Public/login
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013997s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014101s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000989s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000907s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000795s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000966s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003853s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001079s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2013-09-08T23:08:17+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+
+[ 2013-09-08T23:09:18+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016508s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000724s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378652958,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000490s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:16+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017451s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000766s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:20+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.014075s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000687s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:21+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010284s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000569s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:22+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009943s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.001641s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:23+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.011580s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000473s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:24+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001072s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.015020s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000579s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:26+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016880s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000702s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:10:48+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:11:01+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010223s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000739s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653061,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000381s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:11:03+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:11:47+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001202s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:12:20+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009357s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000448s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653140,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000297s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:12:47+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009409s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000496s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:13:04+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001095s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017020s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000521s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653184,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000427s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:13:51+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010989s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000444s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653231,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000323s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:14:21+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.021283s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000921s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653261,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.003025s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:02+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:04+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:04+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:04+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:07+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001373s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:10+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001063s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010308s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = '阿发' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000772s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:11+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001751s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016996s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = '阿发' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000701s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:12+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016709s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = '阿发' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000683s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:12+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:15:54+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.018775s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000758s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653354,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000676s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:17:37+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001092s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.148153s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000578s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653457,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000369s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:18:10+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017804s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000652s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653490,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000986s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:18:38+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010742s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000447s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653518,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000311s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:21:59+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.016491s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000694s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653719,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000469s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:22:25+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010800s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000580s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653745,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000595s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:23:01+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009848s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000451s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653781,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000320s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:23:10+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010082s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = '啊啊啊' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000430s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:23:45+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.012796s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = '啊啊' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000436s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:24:19+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001160s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017243s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000483s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:26:19+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.010307s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.004056s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378653979,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000637s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:27:08+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.011593s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000527s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378654028,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000340s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:28:13+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.018806s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.001387s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378654093,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.007587s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:28:34+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.017464s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.000826s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378654114,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000817s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
+[ 2013-09-08T23:28:42+08:00 ] 127.0.0.1 /web/admin.php/Public/checkLogin/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+SQL: SHOW COLUMNS FROM `web_user` [ RunTime:0.009829s ]
+SQL: SELECT * FROM `web_user` WHERE ( `username` = 'admin' ) AND ( `status` = 0 ) LIMIT 1   [ RunTime:0.001264s ]
+NOTIC: [8] Undefined index: account E:\www\web\admin\Lib\Action\PublicAction.class.php 第 53 行.
+SQL: UPDATE `web_user` SET `last_login_time`=1378654122,`login_count`=login_count+1,`last_login_ip`='127.0.0.1' WHERE ( `id` = 1 ) [ RunTime:0.000560s ]
+NOTIC: [2] json_encode(): Invalid UTF-8 sequence in argument E:\www\web\ThinkPHP\Lib\Core\Action.class.php 第 322 行.
+
