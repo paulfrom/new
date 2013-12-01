@@ -1,6 +1,5 @@
 <?php
  class PublicAction extends Action{
- 	// ����û��Ƿ��¼
  	
  	protected function checkUser() {
  		if(!isset($_SESSION[C('USER_AUTH_KEY')])) {
@@ -13,13 +12,9 @@
  	}
  	public function index()
  	{
- 		//���ͨ����֤��ת����ҳ
  		redirect(__APP__);
  	}
  	public function checkLogin() {
-//  		echo $_POST['userName']."</br>mi";
-//  		echo $_POST['password'];
-//  		$this->display("test");
  		if(empty($_POST['userName'])) {
  			$this->error('�ʺŴ���');
  		}elseif (empty($_POST['password'])){
@@ -27,14 +22,12 @@
  		}
  		//�����֤����
   		$map=array();
- 		//����������Ǵ���ģ�it������������£�
  		$map['where']['username'] = $_POST['userName'];
  		$map['where']['status'] = 0;
  		$accountDao = M('User');
  		$account = $accountDao->find($map);
  		if(false === $account) {
  			$this->error('�ʺŲ����ڻ��ѽ��ã�');
- 			//$this->display("test");
  		}else {
  			if($account['password'] != md5($_POST['password'])) {
  				$this->success('�������');
@@ -57,7 +50,6 @@
  			$data['login_count']	=	array('exp','login_count+1');
  			$data['last_login_ip']	=	$ip;
  			$User->save($data);
- 			//dump($data);
  			$this->success('��¼�ɹ���',U('Index/index')); 	
  		}
  	}
