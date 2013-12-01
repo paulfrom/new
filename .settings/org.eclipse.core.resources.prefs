@@ -1,12 +1,2 @@
 eclipse.preferences.version=1
-encoding//admin/Conf/config.php=UTF-8
-encoding//admin/Lib/Action/CommonAction.class.php=UTF-8
-encoding//admin/Lib/Action/IndexAction.class.php=UTF-8
-encoding//admin/Lib/ORG/Util/Page.class.php=UTF-8
-encoding//admin/Tpl/index/index.html=UTF-8
-encoding//web/Conf/config.php=UTF-8
-encoding//web/Lib/Action/CommonAction.class.php=UTF-8
-encoding//web/Lib/Action/IndexAction.class.php=UTF-8
-encoding//web/Tpl/index/index.html=UTF-8
-encoding//web/Tpl/index/show.html=UTF-8
 encoding/<project>=UTF-8
