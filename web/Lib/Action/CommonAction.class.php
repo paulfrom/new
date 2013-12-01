@@ -15,7 +15,6 @@
    	 * map 閺傝纭�
    	*/
    	protected function _search($name = '') {
-   		//閻㈢喐鍨氶弻銉嚄閺夆�娆�
    		if (empty($name)) {
    			$name = "article";//$this->getActionName();
    		}
