@@ -4,7 +4,7 @@
  	protected function checkUser() {
  		if(!isset($_SESSION[C('USER_AUTH_KEY')])) {
  			$this->assign('jumpUrl','Public/login');
- 			$this->error('û�е�¼');
+ 			$this->error('没有登录');
  		}
  	}
  	public function login() {
