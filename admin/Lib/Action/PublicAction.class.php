@@ -1,25 +1,19 @@
 <?php
  class PublicAction extends Action{
- 	// ¼ì²éÓÃ»§ÊÇ·ñµÇÂ¼
+ 	// ï¿½ï¿½ï¿½ï¿½Ã»ï¿½ï¿½Ç·ï¿½ï¿½Â¼
  	
  	protected function checkUser() {
  		if(!isset($_SESSION[C('USER_AUTH_KEY')])) {
  			$this->assign('jumpUrl','Public/login');
- 			$this->error('Ã»ÓÐµÇÂ¼');
+ 			$this->error('Ã»ï¿½Ðµï¿½Â¼');
  		}
  	}
- 	// ÓÃ»§µÇÂ¼Ò³Ãæ
  	public function login() {
-//  		if(!isset($_SESSION[C('USER_AUTH_KEY')])) {
-//  			$this->display();
-//  		}else{
-//  			$this->redirect('Index/index');
-//  		}
  		$this->display();
  	}
  	public function index()
  	{
- 		//Èç¹ûÍ¨¹ýÈÏÖ¤Ìø×ªµ½Ê×Ò³
+ 		//ï¿½ï¿½ï¿½Í¨ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½×ªï¿½ï¿½ï¿½ï¿½Ò³
  		redirect(__APP__);
  	}
  	public function checkLogin() {
@@ -27,23 +21,23 @@
 //  		echo $_POST['password'];
 //  		$this->display("test");
  		if(empty($_POST['userName'])) {
- 			$this->error('ÕÊºÅ´íÎó£¡');
+ 			$this->error('ï¿½ÊºÅ´ï¿½ï¿½ï¿½');
  		}elseif (empty($_POST['password'])){
- 			$this->error('ÃÜÂë±ØÐë£¡');
+ 			$this->error('ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£¡');
  		}
- 		//Éú³ÉÈÏÖ¤Ìõ¼þ
+ 		//ï¿½ï¿½ï¿½ï¿½ï¿½Ö¤ï¿½ï¿½ï¿½ï¿½
   		$map=array();
- 		//ÉÏÃæÕâ¶þÐÐÊÇ´íÎóµÄ£¬it¶¯Á¦¸ü¸ÄÁËÈçÏÂ£º
+ 		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ç´ï¿½ï¿½ï¿½Ä£ï¿½itï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Â£ï¿½
  		$map['where']['username'] = $_POST['userName'];
  		$map['where']['status'] = 0;
  		$accountDao = M('User');
  		$account = $accountDao->find($map);
  		if(false === $account) {
- 			$this->error('ÕÊºÅ²»´æÔÚ»òÒÑ½ûÓÃ£¡');
+ 			$this->error('ï¿½ÊºÅ²ï¿½ï¿½ï¿½ï¿½Ú»ï¿½ï¿½Ñ½ï¿½ï¿½Ã£ï¿½');
  			//$this->display("test");
  		}else {
  			if($account['password'] != md5($_POST['password'])) {
- 				$this->success('ÃÜÂë´íÎó£¡');
+ 				$this->success('ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½');
  			}
  			$_SESSION[C('USER_AUTH_KEY')]	=	$account['id'];
  			$_SESSION['email']	=	$account['email'];
@@ -53,7 +47,7 @@
  			if($account['account']=='admin') {
  				$_SESSION['administrator']		=	true;
  			}
- 			//±£´æµÇÂ¼ÐÅÏ¢
+ 			//ï¿½ï¿½ï¿½ï¿½ï¿½Â¼ï¿½ï¿½Ï¢
  			$User	=	M('User');
  			$ip		=	get_client_ip();
  			$time	=	time();
@@ -64,15 +58,15 @@
  			$data['last_login_ip']	=	$ip;
  			$User->save($data);
  			//dump($data);
- 			$this->success('µÇÂ¼³É¹¦£¡',U('Index/index')); 	
+ 			$this->success('ï¿½ï¿½Â¼ï¿½É¹ï¿½ï¿½ï¿½',U('Index/index')); 	
  		}
  	}
  	public function logout() {
  		if (isset($_SESSION[C("USER_AUTH_KEY")])) {
  			unset($_SESSION[C("USER_AUTH_KEY")]);
- 			$this->success("³É¹¦ÍË³ö£¡");
+ 			$this->success("ï¿½É¹ï¿½ï¿½Ë³ï¿½ï¿½ï¿½");
  		}else {
- 			$this->error("ÒÑ¾­×¢ÏúµÇÂ¼£¡");
+ 			$this->error("ï¿½Ñ¾ï¿½×¢ï¿½ï¿½ï¿½Â¼ï¿½ï¿½");
  		}
  	}
   }
